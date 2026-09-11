@@ -4,7 +4,7 @@ Este proyecto contiene una implementación en Python del **Algoritmo AQ** orient
 
 ## Descripción
 
-El algoritmo analiza una serie de atributos para generar una regla conceptual que identifique una clase objetivo (en este caso, la predisposición a adquirir un automóvil eléctrico).
+El algoritmo analiza una serie de atributos para generar una regla conceptual que identifique una clase objetivo (en este caso, la predisposición a adquirir un automóvil eléctrico o ).
 
 ### ¿Cómo funciona?
 1. **Atributos**: Identifica las características de los datos (`edad`, `ingreso`, `tiene_garaje`, `distancia_trabajo`).
